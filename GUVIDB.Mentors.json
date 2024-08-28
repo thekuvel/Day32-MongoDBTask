@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66ced862706fff4f40ac45d8"
+  },
+  "MentorName": "Dr. John Doe",
+  "MentorId": 201,
+  "MentorEmail": "john.doe@example.com",
+  "MenteeCount": 15
+},
+{
+  "_id": {
+    "$oid": "66ced862706fff4f40ac45d9"
+  },
+  "MentorName": "Ms. Laura Green",
+  "MentorId": 202,
+  "MentorEmail": "laura.green@example.com",
+  "MenteeCount": 22
+},
+{
+  "_id": {
+    "$oid": "66ced862706fff4f40ac45da"
+  },
+  "MentorName": "Dr. Alice Martin",
+  "MentorId": 203,
+  "MentorEmail": "alice.martin@example.com",
+  "MenteeCount": 18
+},
+{
+  "_id": {
+    "$oid": "66ced862706fff4f40ac45db"
+  },
+  "MentorName": "Mr. James Lee",
+  "MentorId": 204,
+  "MentorEmail": "james.lee@example.com",
+  "MenteeCount": 12
+},
+{
+  "_id": {
+    "$oid": "66ced862706fff4f40ac45dc"
+  },
+  "MentorName": "Dr. Richard Brown",
+  "MentorId": 205,
+  "MentorEmail": "richard.brown@example.com",
+  "MenteeCount": 25
+}]

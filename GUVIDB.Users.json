@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45cd"
+  },
+  "UserName": "Alice Smith",
+  "UserID": 101,
+  "UserType": "Student",
+  "UserEmail": "alice.smith@example.com",
+  "CompanyDrivesAttended": "Tech Innovations Inc.",
+  "Codekata": [
+    "Arrays",
+    "Sorting Algorithms"
+  ],
+  "Mentor": "Dr. John Doe",
+  "Attendance": [
+    "2024-10-01",
+    "2024-10-15",
+    "2024-10-22",
+    "2020-11-05",
+    "2020-11-20"
+  ],
+  "TaskSubmittedDate": [
+    "2020-11-1",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45ce"
+  },
+  "UserName": "Bob Johnson",
+  "UserID": 102,
+  "UserType": "Student",
+  "UserEmail": "bob.johnson@example.com",
+  "CompanyDrivesAttended": "Green Earth Solutions",
+  "Codekata": [
+    "Trees",
+    "Graphs"
+  ],
+  "Mentor": "Ms. Laura Green",
+  "Attendance": [
+    "2020-10-02",
+    "2020-10-10",
+    "2020-10-18",
+    "2020-11-01",
+    "2020-11-15"
+  ],
+  "TaskSubmittedDate": [
+    "2020-10-16",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45cf"
+  },
+  "UserName": "Charlie Davis",
+  "UserID": 103,
+  "UserType": "Student",
+  "UserEmail": "charlie.davis@example.com",
+  "CompanyDrivesAttended": "FinEdge Financial Services",
+  "Codekata": [
+    "Recursion",
+    "Greedy Algorithms"
+  ],
+  "Mentor": "Dr. Alice Martin",
+  "Attendance": [
+    "2020-10-03",
+    "2020-10-12",
+    "2020-10-21",
+    "2020-11-04",
+    "2020-11-18"
+  ],
+  "TaskSubmittedDate": [
+    "2020-11-1",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45d0"
+  },
+  "UserName": "Dana Wilson",
+  "UserID": 104,
+  "UserType": "Student",
+  "UserEmail": "dana.wilson@example.com",
+  "CompanyDrivesAttended": "Creative Media Group",
+  "Codekata": [
+    "Queues",
+    "Hash Tables"
+  ],
+  "Mentor": "Mr. James Lee",
+  "Attendance": [
+    "2020-10-05",
+    "2020-10-14",
+    "2020-10-20",
+    "2020-11-03",
+    "2020-11-22"
+  ],
+  "TaskSubmittedDate": [
+    "2020-12-1",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45d1"
+  },
+  "UserName": "Eve Clark",
+  "UserID": 105,
+  "UserType": "Student",
+  "UserEmail": "eve.clark@example.com",
+  "CompanyDrivesAttended": "HealthFirst Clinics",
+  "Codekata": [
+    "Graphs",
+    "Dynamic Programming"
+  ],
+  "Mentor": "Dr. Richard Brown",
+  "Attendance": [
+    "2020-10-06",
+    "2020-10-13",
+    "2020-10-19",
+    "2020-11-07",
+    "2020-11-21"
+  ],
+  "TaskSubmittedDate": [
+    "2020-06-1",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45d2"
+  },
+  "UserName": "Frank Harris",
+  "UserID": 106,
+  "UserType": "Student",
+  "UserEmail": "frank.harris@example.com",
+  "CompanyDrivesAttended": "Tech Innovations Inc.",
+  "Codekata": [
+    "Trees",
+    "Stacks"
+  ],
+  "Mentor": "Ms. Emily White",
+  "Attendance": [
+    "2020-10-08",
+    "2020-10-17",
+    "2020-10-23",
+    "2020-11-02",
+    "2020-11-19"
+  ],
+  "TaskSubmittedDate": [
+    "2020-10-15",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45d3"
+  },
+  "UserName": "Grace Turner",
+  "UserID": 107,
+  "UserType": "Student",
+  "UserEmail": "grace.turner@example.com",
+  "CompanyDrivesAttended": "FinEdge Financial Services",
+  "Codekata": [
+    "Hash Tables",
+    "Sorting Algorithms"
+  ],
+  "Mentor": "Dr. Brian Anderson",
+  "Attendance": [
+    "2020-10-09",
+    "2020-10-16",
+    "2020-10-24",
+    "2020-11-06",
+    "2020-11-20"
+  ],
+  "TaskSubmittedDate": [
+    "2020-10-18",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45d4"
+  },
+  "UserName": "Henry Adams",
+  "UserID": 108,
+  "UserType": "Student",
+  "UserEmail": "henry.adams@example.com",
+  "CompanyDrivesAttended": "Green Earth Solutions",
+  "Codekata": [
+    "Queues",
+    "Linked Lists"
+  ],
+  "Mentor": "Ms. Olivia Martin",
+  "Attendance": [
+    "2020-10-10",
+    "2020-10-12",
+    "2020-10-25",
+    "2020-11-03",
+    "2020-11-23"
+  ],
+  "TaskSubmittedDate": [
+    "2020-10-25",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45d5"
+  },
+  "UserName": "Ivy Martinez",
+  "UserID": 109,
+  "UserType": "Student",
+  "UserEmail": "ivy.martinez@example.com",
+  "CompanyDrivesAttended": "Creative Media Group",
+  "Codekata": [
+    "Dynamic Programming",
+    "Recursion"
+  ],
+  "Mentor": "Dr. Richard Clark",
+  "Attendance": [
+    "2020-10-11",
+    "2020-10-18",
+    "2020-10-26",
+    "2020-11-09",
+    "2020-11-22"
+  ],
+  "TaskSubmittedDate": [
+    "2020-10-21",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45d6"
+  },
+  "UserName": "Jack Robinson",
+  "UserID": 110,
+  "UserType": "Student",
+  "UserEmail": "jack.robinson@example.com",
+  "CompanyDrivesAttended": "HealthFirst Clinics",
+  "Codekata": [
+    "Stacks",
+    "Arrays"
+  ],
+  "Mentor": "Ms. Sarah Lewis",
+  "Attendance": [
+    "2020-10-12",
+    "2020-10-20",
+    "2020-10-28",
+    "2020-11-10",
+    "2020-11-25"
+  ],
+  "TaskSubmittedDate": [
+    "2020-10-31",
+    "2024-01-01"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66cec4b8706fff4f40ac45d7"
+  },
+  "UserName": "Kelly Young",
+  "UserID": 111,
+  "UserType": "Student",
+  "UserEmail": "kelly.young@example.com",
+  "CompanyDrivesAttended": "Tech Innovations Inc.",
+  "Codekata": [
+    "Sorting Algorithms",
+    "Trees"
+  ],
+  "Mentor": "Dr. Nancy Wilson",
+  "Attendance": [
+    "2020-10-14",
+    "2020-10-22",
+    "2020-10-30",
+    "2020-11-12",
+    "2020-11-26"
+  ],
+  "TaskSubmittedDate": [
+    "2020-10-1",
+    "2024-01-01"
+  ]
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66ce13556cb8ad0ecf0a9b1b"
+  },
+  "CompanyName": "Tech Innovations Inc.",
+  "Position": "Software Engineer",
+  "NoOfVacancy": 3,
+  "Date": "2020-10-20"
+},
+{
+  "_id": {
+    "$oid": "66ce13556cb8ad0ecf0a9b1c"
+  },
+  "CompanyName": "Green Earth Solutions",
+  "Position": "Environmental Scientist",
+  "NoOfVacancy": 2,
+  "Date": "2024-09-01"
+},
+{
+  "_id": {
+    "$oid": "66ce13556cb8ad0ecf0a9b1d"
+  },
+  "CompanyName": "FinEdge Financial Services",
+  "Position": "Financial Analyst",
+  "NoOfVacancy": 4,
+  "Date": "2024-09-05"
+},
+{
+  "_id": {
+    "$oid": "66ce13556cb8ad0ecf0a9b1e"
+  },
+  "CompanyName": "Creative Media Group",
+  "Position": "Graphic Designer",
+  "NoOfVacancy": 1,
+  "Date": "2020-10-20"
+},
+{
+  "_id": {
+    "$oid": "66ce13556cb8ad0ecf0a9b1f"
+  },
+  "CompanyName": "HealthFirst Clinics",
+  "Position": "Registered Nurse",
+  "NoOfVacancy": 5,
+  "Date": "2024-09-15"
+}]
